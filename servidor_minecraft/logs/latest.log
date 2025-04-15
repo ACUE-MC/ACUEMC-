@@ -1,8 +1,19 @@
-[18:34:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:34:17] [Server thread/INFO]: Loading properties
-[18:34:17] [Server thread/WARN]: server.properties does not exist
-[18:34:17] [Server thread/INFO]: Generating new properties file
-[18:34:17] [Server thread/WARN]: Failed to load eula.txt
-[18:34:17] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
-[18:34:17] [Server thread/INFO]: Stopping server
-[18:34:17] [Server Shutdown Thread/INFO]: Stopping server
+[18:40:35] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:40:35] [Server thread/INFO]: Loading properties
+[18:40:35] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:35] [Server thread/INFO]: Generating keypair
+[18:40:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:35] [Server thread/INFO]: Using epoll channel type
+[18:40:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:40:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:40:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:40:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:40:35] [Server thread/INFO]: Preparing level "world"
+[18:40:36] [Server thread/INFO]: Loaded 488 advancements
+[18:40:36] [Server thread/INFO]: Preparing start region for level 0
+[18:40:36] [Server thread/INFO]: Done (0.704s)! For help, type "help" or "?"
+[18:40:36] [Server thread/ERROR]: Couldn't load server icon
+java.lang.NullPointerException: null
+	at net.minecraft.server.MinecraftServer.a(SourceFile:516) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:441) [vanilla.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
