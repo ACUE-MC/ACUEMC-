@@ -1,0 +1,624 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502")
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744740693412 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740697096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740709725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740713452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740717127 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740720533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740724714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740728694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740732293 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740736477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740744749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740748466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740753061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740757877 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740762712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740765848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740769005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740774885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740778163 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740781559 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744740790798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740793922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744740807914 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740811032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740814158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744740823420 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740826547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740831551 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740836615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740840535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740844337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740848706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740851846 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740857346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740860667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740865274 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740869126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740872848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740876576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740879704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740883941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740888037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740892799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740896673 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740899815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740904340 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740907494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740912771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740917045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744740938562 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744740960171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740963300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740966435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740970641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740974818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740979464 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740983411 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740986540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740990729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740994809 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744740999113 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741002590 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741008075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741012975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741016912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741023898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741027036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741030182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741035458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741039344 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741044027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741048151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741052682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741056722 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741062849 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741068438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744741089936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741093058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741096203 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741106385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741109605 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741113468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741117452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741120798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741125424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741128562 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741131874 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741136240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741140011 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741144585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741149247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741155493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741158807 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741163452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741169784 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741174138 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741179869 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741186079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741190450 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741193591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741197058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741200415 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741204939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741208927 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741214820 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741217949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741221072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741224210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741235494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741238632 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741241767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741245041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741248168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741251296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741254430 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741257563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744741265460 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744741274699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+private-bookmarks.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
